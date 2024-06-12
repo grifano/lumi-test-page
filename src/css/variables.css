@@ -1,0 +1,46 @@
+:root {
+  /* Colors */
+  --black: #000;
+  --border-primary: var(--color-brand-blue);
+  --border-secondary: var(--color-brand-red);
+  --border-tertiary: var(--color-neutral-neutral-dark);
+  --border-alternate: var(--color-neutral-white);
+  --border-success: #027a48;
+  --border-error: var(--color-system-error-red);
+  --background-color-primary: var(--color-neutral-white);
+  --background-color-secondary: var(--color-brand-blue);
+  --background-color-tertiary: var(--color-brand-bluelight);
+  --background-color-alternate: var(--color-neutral-black);
+  --background-color-success: var(--color-system-success-green-light);
+  --background-color-error: var(--color-system-error-red-light);
+  --text-primary: var(--color-neutral-black);
+  --text-secondary: var(--color-brand-red);
+  --text-alternate: var(--color-neutral-white); /* Use*/
+  --text-success: var(--color-system-success-green);
+  --text-error: var(--color-system-error-red);
+  --link-primary: var(--color-brand-blue);
+  --link-secondary: var(--color-brand-red);
+  --link-alternate: var(--color-neutral-white);
+  --color-brand-blue: #060cb8;
+  --color-brand-red: #df5228;
+  --color-neutral-black: #0d0d0d;
+  --color-neutral-white: #fff;
+  --color-neutral-neutral-lightest: #eee;
+  --color-neutral-neutral-lighter: #ccc;
+  --color-neutral-neutral-light: #aaa;
+  --color-neutral-neutral: #666;
+  --color-neutral-neutral-dark: #444;
+  --color-neutral-neutral-darker: #222;
+  --color-neutral-neutral-darkest: #111;
+  --color-system-success-green: #027a48;
+  --color-system-error-red: #b42318;
+  --color-system-success-green-light: #ecfdf3;
+  --color-system-error-red-light: #fef3f2;
+  --color-brand-bluelight: #122ae9;
+  --background-color-button: var(--color-brand-blue); /* Use*/
+  --border-button: var(--color-brand-blue); /* Use*/
+  --color-brand-bluedark: #050a86;
+
+  /* Font Family */
+  --font-family: 'Montserrat', sans-serif;
+}
